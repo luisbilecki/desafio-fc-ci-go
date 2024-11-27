@@ -1,0 +1,14 @@
+{
+  "name": "desafio-fc-ci-go",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luisbilecki/desafio-fc-ci-go.git",
+  "author": "Luís Felipe Bilecki <luis.bilecki@gmail.com>",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
+}
